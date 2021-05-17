@@ -1,0 +1,2 @@
+this is testing bash 
+with selef practice information
